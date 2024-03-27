@@ -1,4 +1,4 @@
-# Greysacle_Image_Colorization_and_Super_Resolution
+# Greyscale_Image_Colorization_and_Super_Resolution
 
 This Machine Learning Model takes in Greyscale Low-Light Image as input and produces Colorized High-Resolution Image as output.
 
